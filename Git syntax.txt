@@ -1,0 +1,25 @@
+git config --global user.name 'Brad Ford'
+
+git config --global user.email 'bradfordpixels@gmail.com'
+
+git add index.html
+
+git status
+
+to delete:
+git rm --cached index.html
+
+Add everything:
+git add .
+git status
+
+git commit
+
+After an Edit of file index.html:
+$ git commit -m ' changed index.html'
+
+clear screen:
+$ clear
+
+Ignore files & folders not required:
+$ touch .gitignore

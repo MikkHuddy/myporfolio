@@ -1,0 +1,23 @@
+{
+  "name": "myportfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "java.js",
+  "scripts": {
+    "deploy": "echo \"gh-pages -d myportfolio"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikkHuddy/myporfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikkHuddy/myporfolio/issues"
+  },
+  "homepage": "https://MikkHuddy.github.com/myportfolio",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
